@@ -112,6 +112,7 @@ __粗体2__
 
 ###GitHub仓库中的图片
 ![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
+
 ###<a name="piclink">给图片加上超链接
 [![head]](http://blog.csdn.net/guodongxiaren/article/details/23690801)
 [head]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/jianxin.jpg "点击图片进入我的博客"
@@ -199,10 +200,6 @@ document.getElementById("myH1").innerHTML="Welcome to my Homepage"; //javascipt
 string &operator+(const string& A,const string& B) //cpp
 ```
 ##<a name="table"/>显示表格
-表头1  | 表头2
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
 
 | 表头1  | 表头2|
 | ------------- | ------------- |
