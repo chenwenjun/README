@@ -183,6 +183,17 @@ __粗体2__
 >>>>>满二叉树
 
 ##<a name="code"/>代码高亮
+```python
+def new_game():
+    # initialize global variables used in your code here
+ 
+    secret_num = random.randrange(0, 100)
+    
+    return secret_num
+    pass
+````
+
+
 ```Java
 public static void main(String[]args){} //Java
 ```
