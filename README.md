@@ -248,3 +248,32 @@ Github的Markdown语法支持添加emoji表情，输入不同的符号码（两�
 具体每一个表情的符号码，可以查询GitHub的官方网页[http://www.emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com)。
 
 但是这个网页每次都打开**奇慢**。。所以我整理到了本repo中，大家可以直接在此查看[emoji](./emoji.md)。
+
+
+
+
+
+
+```
+{"version":"1.0.0","spId":"106","token":"","userId":"beeServer","hashMethod":"md5","parameters":"","sign":"vMmruN25MM6HbkI.AFvgW1"}
+
+6!d 2016/11/2 17:38:32
+{
+  "errMsg": "版本不兼容,请升级",
+  "errCode": "1",
+  "data": "",
+  "method": "config",
+  "version": "1.0.0"
+}
+17:43:56
+6!d 2016/11/2 17:43:56
+{
+  "errMsg": "",
+  "errCode": "0",
+  "data": {
+    "loading": "https://gss0.baidu.com/7Po3dSag_"
+  },
+  "method": "config",
+  "version": "1.0.0"
+}
+```
